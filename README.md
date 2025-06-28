@@ -1,4 +1,4 @@
-# Tesla-vs-GameStop-Stock-Revenue-Analysis-Dashboard
+# Project: Tesla-vs-GameStop-Stock-Revenue-Analysis-Dashboard
 
 This project showcases a simple yet effective workflow for retrieving, analyzing, and visualizing historical stock price data and quarterly revenue figures for two publicly traded companies—**Tesla (TSLA)** and **GameStop (GME)**. The project uses Python libraries like `yfinance`, `pandas`, and `matplotlib` to create time-series plots and explore financial trends. This structure serves as a foundation for building more advanced, interactive financial dashboards.
 
