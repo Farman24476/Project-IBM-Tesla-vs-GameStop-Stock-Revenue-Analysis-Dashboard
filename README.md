@@ -40,3 +40,4 @@ To run the project on your local machine:
 
 ```bash
 pip install yfinance pandas matplotlib
+#   Do not Copy this 
